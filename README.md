@@ -114,6 +114,7 @@ A collection of awesome Hacker News apps, libraries, resources and shiny things.
 - <http://hackerwebapp.com/> by [Lim Chee Aun](https://github.com/cheeaun)
 - <http://www.hackernews.im/> by [Poly Miao](https://github.com/polyrabbit/) [source](https://github.com/polyrabbit/hacker-news-digest)
 - [Hacker News Mobile](http://hackernewsmobile.com/) ([GitHub](https://github.com/jsdf/hacker-news-mobile)) by [James Friend](https://github.com/jsdf)
+- [HackerNews: With Privacy!*](https://hackernews.xyz)
 - ~~<http://hn.meteor.com/> by [Zach Denton](https://github.com/zacharydenton)~~
 - ~~<http://hn.gethifi.com/> by [Joel Sutherland](https://github.com/JoelSutherland) and [Kris Jordan](https://github.com/KrisJordan)~~
 - ~~<http://www.icombinator.net/> by Benny Wong~~
